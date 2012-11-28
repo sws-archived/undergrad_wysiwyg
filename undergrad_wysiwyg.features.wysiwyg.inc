@@ -59,15 +59,15 @@ function undergrad_wysiwyg_wysiwyg_default_profiles() {
       'css_classes' => 'Big Red Numbered List=ol.big-red-list
 Links List=ul.links-list
 Red Uppercase=p.red-uppercase
-Red Uppercase H2=h2.red-uppercase
-Red Uppercase H3=h3.red-uppercase
+Red Uppercase=h2.red-uppercase
+Red Uppercase=h3.red-uppercase
 Red Uppercase=span.red-uppercase
-Summary=p.summary
-Summary=span.summary
-Descriptor=p.descriptor
-Descriptor=span.descriptor
-Light Descriptor=p.descriptor-light
-Light Descriptor=span.descriptor-light
+Summary Paragraph=p.summary
+Summary Span=span.summary
+Descriptor Paragraph=p.descriptor
+Descriptor Span=span.descriptor
+Light Descriptor Paragraph=p.descriptor-light
+Light Descriptor Span=span.descriptor-light
 More Link=a.more-link
 Red Button=a.btn-red
 No Border=p.border-none',
