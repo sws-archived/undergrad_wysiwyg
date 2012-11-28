@@ -69,7 +69,6 @@ Descriptor=span.descriptor
 Light Descriptor=p.descriptor-light
 Light Descriptor=span.descriptor-light
 More Link=a.more-link
-Button=a.btn
 Red Button=a.btn-red
 No Border=p.border-none',
     ),
