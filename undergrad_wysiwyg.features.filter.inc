@@ -248,6 +248,7 @@ br,cite,code,em,h2,h3,h4,h5,h6,hr,li,strong,sup,sub,tbody,thead,th,tr,td',
             170 => 'red-uppercase',
             172 => 'descriptor-light',
             174 => 'btn-red',
+            176 => 'border-none',
           ),
           'rule_valid_ids' => array(
             0 => 'prefix-*',
