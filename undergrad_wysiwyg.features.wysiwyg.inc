@@ -57,35 +57,20 @@ function undergrad_wysiwyg_wysiwyg_default_profiles() {
       'css_setting' => 'self',
       'css_path' => '%bsites/default/themes/open_framework/bootstrap/css/bootstrap.css, %bsites/default/themes/open_framework/css/open_framework.css , %bsites/default/themes/stanford_framework/css/stanford_framework.css, %b%t/css/undergrad.css',
       'css_classes' => 'Big Red Numbered List=ol.big-red-list
-
 Links List=ul.links-list
-
 Red Uppercase Paragraph=p.red-uppercase
-
 Red Uppercase H2=h2.red-uppercase
-
 Red Uppercase H3=h3.red-uppercase
-
 Red Uppercase Span=span.red-uppercase
-
 Summary Paragraph=p.summary
-
 Summary Span=span.summary
-
 Descriptor Paragraph=p.descriptor
-
 Descriptor Span=span.descriptor
-
 Light Descriptor Paragraph=p.descriptor-light
-
 Light Descriptor Span=span.descriptor-light
-
 More Link=a.more-link
-
 Button=a.btn
-
 Red Button=a.btn-red
-
 No Border=p.border-none',
     ),
     'metatags' => array(),
