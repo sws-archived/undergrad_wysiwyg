@@ -53,7 +53,7 @@ function undergrad_wysiwyg_wysiwyg_default_profiles() {
       'remove_linebreaks' => 1,
       'apply_source_formatting' => 1,
       'paste_auto_cleanup_on_paste' => 1,
-      'block_formats' => 'p,h2,h3,h4,pre',
+      'block_formats' => 'p,h2,h3,h4',
       'css_setting' => 'self',
       'css_path' => '%bsites/default/themes/open_framework/bootstrap/css/bootstrap.css, %bsites/default/themes/open_framework/css/open_framework.css , %bsites/default/themes/stanford_framework/css/stanford_framework.css, %b%t/css/undergrad.css',
       'css_classes' => 'Big Red Numbered List=ol.big-red-list
