@@ -41,7 +41,7 @@ span[class],
 abbr[class],
 i[class],
 br,cite,code,em,h2,h3,h4,h5,h6,hr,li,strong,sup,sub,tbody,thead,th,tr,td',
-          'allow_comments' => '0',
+          'allow_comments' => '1',
           'nofollow_policy' => 'whitelist',
           'nofollow_domains' => array(
             0 => 'stanford.edu',
