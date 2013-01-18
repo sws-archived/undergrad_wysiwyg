@@ -39,7 +39,6 @@ function undergrad_wysiwyg_wysiwyg_default_profiles() {
           'RemoveFormat' => 1,
           'Format' => 1,
           'Styles' => 1,
-          'Table' => 1,
           'SpellChecker' => 1,
         ),
       ),
